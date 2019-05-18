@@ -1,0 +1,79 @@
+.spacer {
+	/*margin-top: -10px;*/
+	margin-top: -5px;
+}
+
+.spacer40{
+	margin-top: 40px;
+}
+
+.red {
+	color: red;
+}
+
+.liste{
+	margin-top: -25px;
+	margin-bottom: 15px;
+}
+
+.accueil {
+	margin-top: 90px;
+}
+
+.lieu{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.centrer{
+	margin-left: 220px;
+}
+.espace{
+	margin-top: -7px;
+	margin-bottom: 10px;
+}
+
+.largbouton {
+	width: 70px;
+    height: 35px;
+    line-height:5px;
+}
+
+.largbouton2 {
+	width: 85px;
+    /*height: 40px;*/
+    height: 35px;
+    line-height:19px;
+}
+
+.titre {
+	padding-top: 82px;
+	padding-bottom: 82px;
+	padding-left: 70px;
+	color: red;
+	background-color: navy;
+	font-style: italic;
+}
+
+.couleur{
+	color: red;
+}
+
+.modal-pieds {
+  /*padding-right: 10px;*/
+  padding-right: 2px;
+  text-align: right;
+}
+
+/*.container-modif {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: 448px;
+}*/
+
+.boutons{
+	width: 65px;
+    height: 35px;
+    line-height:19px;
+}
+
+
